@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_color.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 426</p>
+    <p>10 Shattuck Street</p>
+    <p>Boston, MA 02115</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Sumaiya Nazeen is a postdoctoral research fellow in Sunyaev and Khurana labs led by Professors Shamil Sunyaev and Vikram Khurana at the Department of Biomedical Informatics at the Harvard Medical School and the Department of Neurology at the Brigham and Women's Hospital respectively. She is also a remote associate member of the Broad Institute of MIT and Harvard. Her research focuses on the development of computational and statistical models for the interpretation of genetic foundation of complex human diseases. Computational integration of large-scale functional and comparative genomics datasets, can provide insight into the disease-associated sequence variants and their likely molecular roles. Sumaiya’s research aims at designing better tools for furthering such insight. Sumaiya was awarded International Fulbright Science & Technology Fellowship in 2012 and Ludwig Center for Molecular Oncology Graduate Fellowship in 2015 for her research. In 2022, she received the "Sudarsky Scholar" award from the Movement Disorders Division in the Department of Neurology at BWH.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+A native of Bangladesh, Sumaiya pursued her Bachelor’s degree from the Department of Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET) and graduated summa cum laude receiving both Chancellor’s gold medal and Prime Minister’s gold medal. She completed her Master’s and Ph.D. in Computer Science under the supervision of Prof. Bonnie Berger at MIT in 2014 and 2019 respectively. Prior to coming to MIT, she served as a lecturer in the Department of CSE, BUET and taught a number of theory and sessional courses. She has a keen interest in music and enjoys travelling and reading.
