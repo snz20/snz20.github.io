@@ -9,8 +9,9 @@ profile:
   image: prof_pic_color.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 426</p>
-    <p>10 Shattuck Street</p>
+    <p>Department of Biomedical Informatics</p>
+    <p>Harvard Medical School</p>
+    <p>10 Shattuck Street, Room 426</p>
     <p>Boston, MA 02115</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
